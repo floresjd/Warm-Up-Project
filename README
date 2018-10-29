@@ -1,0 +1,28 @@
+NAME: Jose Flores Martinez
+EMAIL: joseflores2395@gmail.com
+ID: 404474130
+
+
+------Referenes------------
+I referenced the following sources to learn about functions and systems calls:
+  get_long(3): https://linux.die.net/man/3/getopt_long
+  	       https://stackoverflow.com/questions/17877368/getopt-passing-string-parameter-for-argument
+  open(2): https://linux.die.net/man/2/open
+  creat(2): https://linux.die.net/man/2/open
+  close(2): https://linux.die.net/man/2/close
+  dup(2): https://linux.die.net/man/2/dup2
+  read(2): https://linux.die.net/man/2/read
+  write(2): https://linux.die.net/man/2/write
+  exit(2): https://linux.die.net/man/2/exit
+  signal(2): https://linux.die.net/man/2/signal
+  strerror(2): https://linux.die.net/man/2/strerror
+  gdb(1): http://www.yolinux.com/TUTORIALS/GDB-Commands.html
+
+In implementing the input and outredirection I modeled my code after the file <fd_juggling.html> that was provided on CCLE.
+
+In making the Makefile: http://mrbook.org/blog/tutorials/make/
+------End References
+
+******Smoke Tests**********
+
+******End Smoke Tests******

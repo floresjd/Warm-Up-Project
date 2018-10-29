@@ -1,0 +1,10 @@
+SEGFAULT_ID=139
+
+./lab0 --segfault
+if [$? -eq SEGFAULT_ID]
+then   
+    echo "Successfully Caused segfault***OK"
+else
+    echo "Did not cause segfault***BAD"
+fi
+   
